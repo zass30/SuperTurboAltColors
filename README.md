@@ -10,7 +10,7 @@ This will get you playing Super Turbo on your local machine with new colors for 
  
 ### Installing
 Download the latest release:
- * [a latest release](2020-05-17-fightcade-ssf2xj.zip)
+ * [Latest release 2020-05-17](https://github.com/zass30/SuperTurboAltColors/blob/master/2020-05-17-fightcade-ssf2xj.zip?raw=true)
 
 The 2020-05-17-fightcade-ssf2xj.zip folder contains 3 files.
 
