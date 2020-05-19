@@ -5,7 +5,10 @@ An alternative color set for Super Street Fighter 2: Turbo
 This will get you playing Super Turbo on your local machine with new colors for all characters.
 
 ### Prerequisites
- * Fightcade http://www.fightcade.com/
+ * [Fightcade](http://www.fightcade.com/)
+ * The roms for ssf2t.zip and ssf2xj.zip. You need to get these on your own.
+ 
+### Installing
 
 The 2020-05-17-fightcade-ssf2xj.zip folder contains 3 files.
 
