@@ -9,6 +9,8 @@ This will get you playing Super Turbo on your local machine with new colors for 
  * The roms for ssf2t.zip and ssf2xj.zip. You need to get these on your own.
  
 ### Installing
+Download the latest release:
+ * [a latest release](2020-05-17-fightcade-ssf2xj.zip)
 
 The 2020-05-17-fightcade-ssf2xj.zip folder contains 3 files.
 
