@@ -20,7 +20,6 @@ Download the latest release:
  ![character select](images/characterselect.png)
 
 Do not use a save state to load, as that will show the classic capcom colors.
-
  
 ### New Legacy
 Download the latest release:
@@ -34,3 +33,9 @@ Download the latest release:
  ![character select new legacy](images/characterselect_newlegacy.png)
 
 Do not use a save state to load, as that will show the classic capcom colors.
+
+
+## Colors
+To see what colors are assigned to each button, download the latest colorset.
+ * [Latest colorset  2020-05-19](colorsets/2020-05-19-colorset.zip?raw=true)
+
