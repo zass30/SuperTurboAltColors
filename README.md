@@ -17,7 +17,7 @@ Download the latest release:
 * Drag the three files into ssf2xj.zip. It will replace three existing files.
 * Open fightcade. You should see the new colors on the select screen
 
- ![character select](images/characterselect2.png)
+ ![character select](images/characterselect.png)
 
 Do not use a save state to load, as that will show the old colors.
 
@@ -31,6 +31,6 @@ Download the latest release:
 * Drag the two files into ssf2t.zip. It will replace two existing files.
 * Open fightcade. You should see the new colors on the select screen
 
- ![character select](images/characterselect2.png)
+ ![character select new legacy](images/characterselect_newlegacy.png)
 
 Do not use a save state to load, as that will show the old colors.
