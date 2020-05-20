@@ -21,7 +21,7 @@ Download the latest release:
 
 Do not use a save state to load, as that will show the classic capcom colors.
  
-### New Legacy
+### New Legacy (v03)
 Download the latest release:
  * [Latest release 2020-05-19](roms/NewLegacy/2020-05-19-newlegacy-ssf2t.zip?raw=true)
  
