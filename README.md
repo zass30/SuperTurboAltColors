@@ -36,6 +36,6 @@ Do not use a save state to load, as that will show the classic capcom colors.
 
 
 ## Colors
-To see what colors are assigned to each button, download the latest colorset.
+To see which colors are assigned to each button, download the latest colorset.
  * [Latest colorset  2020-05-20](colorsets/2020-05-20-colorset.zip?raw=true)
 
