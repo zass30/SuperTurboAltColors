@@ -16,6 +16,7 @@ Download the latest release:
 * Open your fightcade roms folder. Inside it is a file called ssf2xj.zip.
 * Drag the three files into ssf2xj.zip. It will replace three existing files.
 * Open fightcade. You should see the new colors on the select screen
- ![character select](images/characterselect.png)
+
+ ![character select](images/characterselect2.png)
 
 Do not use a save state to load, as that will show the old colors.
