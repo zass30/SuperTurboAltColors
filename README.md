@@ -15,7 +15,7 @@ Download the latest release:
 * The 2020-05-19-fightcade-ssf2xj.zip folder contains 3 files, named sfxj.03c, sfxj.04a, and sfxj.06a
 * Open your fightcade roms folder. Inside it is a file called ssf2xj.zip.
 * Drag the three files into ssf2xj.zip. It will replace three existing files.
-* Open fightcade. You should see the new colors on the select screen
+* Open fightcade. You should see the new colors on the select screen.
 
  ![character select](images/characterselect.png)
 
@@ -28,7 +28,7 @@ Download the latest release:
 * The 2020-05-19-newlegacy-ssf2t.zip folder contains 2 files, named sfxe.03c and sfxe.04a.
 * Open your fightcade roms folder. Inside it is a file called ssf2t.zip. This is the new legacy rom that you should have already installed.
 * Drag the two files into ssf2t.zip. It will replace two existing files.
-* Open fightcade. You should see the new colors on the select screen
+* Open fightcade. You should see the new colors on the select screen.
 
  ![character select new legacy](images/characterselect_newlegacy.png)
 
