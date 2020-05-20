@@ -19,7 +19,7 @@ Download the latest release:
 
  ![character select](images/characterselect.png)
 
-Do not use a save state to load, as that will show the old colors.
+Do not use a save state to load, as that will show the classic capcom colors.
 
  
 ### New Legacy
@@ -33,4 +33,4 @@ Download the latest release:
 
  ![character select new legacy](images/characterselect_newlegacy.png)
 
-Do not use a save state to load, as that will show the old colors.
+Do not use a save state to load, as that will show the classic capcom colors.
