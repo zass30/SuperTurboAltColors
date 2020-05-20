@@ -10,7 +10,7 @@ This will get you playing Super Turbo on your local machine with new colors for 
  
 ### Installing
 Download the latest release:
- * [Latest Fightcade release 2020-05-20](roms/2020-05-20-fightcade-ssf2xj.zip?raw=true)
+ * [Latest Fightcade release: 2020-05-20](roms/2020-05-20-fightcade-ssf2xj.zip?raw=true)
  
 * The 2020-05-20-fightcade-ssf2xj.zip folder contains 3 files, named sfxj.03c, sfxj.04a, and sfxj.06a
 * Open your fightcade roms folder. Inside it is a file called ssf2xj.zip.
@@ -23,7 +23,7 @@ Do not use a save state to load, as that will show the classic capcom colors.
  
 ### New Legacy (v03)
 Download the latest release:
- * [Latest New Legacy release 2020-05-20](roms/NewLegacy/2020-05-20-newlegacy-ssf2t.zip?raw=true)
+ * [Latest New Legacy release: 2020-05-20](roms/NewLegacy/2020-05-20-newlegacy-ssf2t.zip?raw=true)
  
 * The 2020-05-20-newlegacy-ssf2t.zip folder contains 2 files, named sfxe.03c and sfxe.04a.
 * Open your fightcade roms folder. Inside it is a file called ssf2t.zip. This is the new legacy rom that you should have already installed.
