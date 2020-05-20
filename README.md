@@ -20,3 +20,17 @@ Download the latest release:
  ![character select](images/characterselect2.png)
 
 Do not use a save state to load, as that will show the old colors.
+
+ 
+### New Legacy
+Download the latest release:
+ * [Latest release 2020-05-19](roms/2020-05-19-newlegacy-ssf2t.zip?raw=true)
+ 
+* The 2020-05-19-newlegacy-ssf2t.zip folder contains 2 files, named sfxe.03c and sfxe.04a.
+* Open your fightcade roms folder. Inside it is a file called ssf2t.zip. This is the new legacy rom that you should have already made
+* Drag the two files into ssf2t.zip. It will replace two existing files.
+* Open fightcade. You should see the new colors on the select screen
+
+ ![character select](images/characterselect2.png)
+
+Do not use a save state to load, as that will show the old colors.
