@@ -25,7 +25,7 @@ Do not use a save state to load, as that will show the classic capcom colors.
 Download the latest release:
  * [Latest New Legacy release: 2020-05-24](roms/NewLegacy/2020-05-24-newlegacy-ssf2t.zip?raw=true)
  
-* The 2020-05-20-newlegacy-ssf2t.zip folder contains 2 files, named sfxe.03c and sfxe.04a.
+* The 2020-05-24-newlegacy-ssf2t.zip folder contains 2 files, named sfxe.03c and sfxe.04a.
 * Open your fightcade roms folder. Inside it is a file called ssf2t.zip. This is the new legacy rom that you should have already installed.
 * Drag the two files into ssf2t.zip. It will replace two existing files.
 * Open fightcade. You should see the new colors on the select screen.
