@@ -10,9 +10,9 @@ This will get you playing Super Turbo on your local machine with new colors for 
  
 ### Installing
 Download the latest release:
- * [Latest Fightcade release: 2020-05-24](roms/Fightcade/2020-05-24-fightcade-ssf2xj.zip?raw=true)
+ * [Latest Fightcade release: 2020-05-25](roms/Fightcade/2020-05-25-fightcade-ssf2xj.zip?raw=true)
  
-* The 2020-05-20-fightcade-ssf2xj.zip folder contains 3 files, named sfxj.03c, sfxj.04a, and sfxj.06a
+* The 2020-05-25-fightcade-ssf2xj.zip folder contains 3 files, named sfxj.03c, sfxj.04a, and sfxj.06a
 * Open your fightcade roms folder. Inside it is a file called ssf2xj.zip.
 * Drag the three files into ssf2xj.zip. It will replace three existing files.
 * Open fightcade. You should see the new colors on the select screen.
