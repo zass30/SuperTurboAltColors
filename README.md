@@ -12,7 +12,7 @@ This will get you playing Super Turbo on your local machine with new colors for 
 
 ### Fightcade 2
 Download the latest release:
- * [Latest Fightcade release: 2020-08-06](roms/Fightcade/2020-08-06-fightcade-ssf2xj.zip?raw=true)
+ * [Latest Fightcade 2 color patch: 2020-08-06](roms/Fightcade/2020-08-06-fightcade-ssf2xj.zip?raw=true)
  
 * The 2020-08-06-fightcade-ssf2xj.zip folder contains 3 files, named sfxj.03c, sfxj.04a, and sfxj.06a
 * Open your fightcade2 roms folder. Inside it is a subfolder called FBNeo Roms. 
@@ -26,7 +26,7 @@ Do not use a save state to load, as that will show the classic capcom colors.
  
 ### New Legacy (v03)
 Download the latest release:
- * [Latest New Legacy release: 2020-08-06](roms/NewLegacy/2020-08-06-newlegacy-ssf2t.zip?raw=true)
+ * [Latest New Legacy color patch: 2020-08-06](roms/NewLegacy/2020-08-06-newlegacy-ssf2t.zip?raw=true)
  
 * The 2020-08-06-newlegacy-ssf2t.zip folder contains 2 files, named sfxe.03c and sfxe.04a.
 * Open your fightcade2 roms folder. Inside it is a subfolder called FBNeo Roms. 
@@ -40,7 +40,7 @@ Do not use a save state to load, as that will show the classic capcom colors.
 
 ### Fightcade 1
 Download the latest release:
- * [Latest Fightcade release: 2020-08-06](roms/Fightcade/2020-08-06-fightcade-ssf2xj.zip?raw=true)
+ * [Latest Fightcade 1 color patch: 2020-08-06](roms/Fightcade/2020-08-06-fightcade-ssf2xj.zip?raw=true)
  
 * The 2020-08-06-fightcade-ssf2xj.zip folder contains 3 files, named sfxj.03c, sfxj.04a, and sfxj.06a	
 * Open your fightcade roms folder. Inside it is a file called ssf2xj.zip.	
