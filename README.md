@@ -38,20 +38,6 @@ Download the latest release:
 
 Do not use a save state to load, as that will show the classic capcom colors.
 
-### Fightcade 1
-Download the latest release:
- * [Latest Fightcade 1 color patch: 2020-08-11](roms/Fightcade/2020-08-11-fightcade-ssf2xj.zip?raw=true)
- 
-* The 2020-08-11-fightcade-ssf2xj.zip folder contains 3 files, named sfxj.03c, sfxj.04a, and sfxj.06a	
-* Open your fightcade roms folder. Inside it is a file called ssf2xj.zip.	
-* Drag the three files into ssf2xj.zip. It will replace three existing files.	
-* Open fightcade. You should see the new colors on the select screen.
-
- ![character select](images/characterselect.png)
-
-Do not use a save state to load, as that will show the classic capcom colors.
-
-
 ## Colors
 To see which colors are assigned to each button, download the latest colorset.
  * [Latest colorset  2020-08-11](colorsets/2020-08-11-colorset.zip?raw=true)
