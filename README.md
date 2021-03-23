@@ -12,7 +12,7 @@ This will get you playing Super Turbo on your local machine with new colors for 
 
 ### Fightcade 2
 Download the latest release:
- * [Latest Fightcade 2 color patch: 2020-11-03](roms/Fightcade/2020-11-03-fightcade-ssf2xj.zip?raw=true)
+ * [Latest Fightcade 2 color patch: 2021-03-22](roms/Fightcade/2021-03-22-fightcade-ssf2xj.zip?raw=true)
  
 * The 2020-11-03-fightcade-ssf2xj.zip folder contains 3 files, named sfxj.03c, sfxj.04a, and sfxj.06a
 * Open your fightcade2 roms folder. Inside it is a subfolder called FBNeo Roms. 
@@ -26,5 +26,5 @@ Do not use a save state to load, as that will show the classic capcom colors.
 
 ## Colors
 To see which colors are assigned to each button, download the latest colorset.
- * [Latest colorset  2020-11-03](colorsets/2020-11-03-colorset.zip?raw=true)
+ * [Latest colorset  2021-03-22](colorsets/2021-03-22-colorset.zip?raw=true)
 
