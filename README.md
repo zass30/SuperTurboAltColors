@@ -6,7 +6,7 @@ This will get you playing Super Turbo on your local machine with new colors for 
 
 ### Prerequisites
  * [Fightcade 2](http://www.fightcade.com/)
- * The roms for ssf2xjr1.zip and ssf2tnl.zip. You need to get these on your own.
+ * The rom for ssf2xjr1.zip. You need to get this on your own.
  
 ### Installing
 
