@@ -29,4 +29,4 @@ To see which colors are assigned to each button, download the latest colorset.
  * [Latest colorset  2021-04-12](colorsets/2021-04-12-colorset.zip?raw=true)
 
 ## Bonus
-* [8 bit "NES" colorset](/roms/Fightcade/bonus/2021-05-25-4colclassic-fightcade-ssf2xj.zip?raw=true)
+* [8 bit "NES" color patch](/roms/Fightcade/bonus/2021-05-25-4colclassic-fightcade-ssf2xj.zip?raw=true)
